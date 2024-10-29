@@ -230,8 +230,8 @@ c       con scrittura del file .err in caso contrario
 c       inserimento file velocità
       
       use mdl_bin5
-	use dflib
-      use msflib !BERNARD			
+	!use dflib
+      !use msflib !BERNARD			
       use OMP_lib !BARBINI
 
       integer i, j, icj, irj, m, otto, nerc, kx, ky, N_iji, jij, ijij
