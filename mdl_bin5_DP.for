@@ -113,6 +113,7 @@
       real*8, allocatable :: val_flag(:,:)
 	real*8, allocatable :: ele(:,:)
 	real*4, allocatable :: ele1(:,:)
+      
       real*8, allocatable :: ele_b(:,:)
       real*8, allocatable :: SCS_error(:,:)
 	real*8, allocatable :: h_tot(:,:)
